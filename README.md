@@ -4,23 +4,17 @@
 
 I'm an engineer with a sprinkle of AI/ML, a dash of mathematics, and a whole lot of curiosity for bizarre (yet effective) solutions. Think equal parts Dr. Who, Niels Bohr, and Nikola Tesla with a healthy dose of coding thrown in.
 
-By day, I'm building the future of AI, one line of code at a time. By night, I'm fortifying the toaster oven – you never know when breakfast might fight back! 🍳
+By day, I'm building the future of AI, one line of code at a time. By night, I'm fortifying my toaster oven—because you never know when breakfast might fight back! 🍳🤖
 
 Currently, I'm on a quest for groundbreaking research opportunities and I'm working on:
 
-- **AI & ML Polyglot** 🤖: Weaving algorithmic magic through [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), and [SageMaker](https://aws.amazon.com/sagemaker/), making them sing in perfect harmony.
-- **Quantum Computing Conjuring** ⚛️: Unraveling the mysteries of the quantum realm, one qubit at a time.
-- **High Energy Physics & Beyond** 🌌: Exploring the universe's most energetic phenomena, from particle colliders to the furthest reaches of space.
-- **Bioinformatics & Generalist Goodness** 🧬: Delving into the intricate dance of life from genes to ecosystems.
-- **Data & Problem-Solving Extraordinaire** 📊: Mastering data collection, analysis, and wrangling, with a knack for unconventional brainteasers.
+- **AI & ML** 🤖: Exploring innovative applications and algorithms.
+- **Quantum Computing** ⚛️: Diving into the mysteries of the quantum realm.
+- **High Energy Physics** 🌌: Investigating the universe's most energetic phenomena.
+- **Bioinformatics** 🧬: Fascinated by the intricate dance of life on all scales.
+- **Data Analysis** 📊: Enjoying the challenge of problem-solving with data.
 
 If you're looking for a researcher who can think outside the box (and maybe even outside the simulation!), let's connect! 🤝
-
----
-
-### Fun Facts
-- P.S. I dabble in a bit of everything, from 3D modeling to ancient archaeology (because, why not? 🏺).
-
 
 ## Reach Out
 ## 🌐 Socials:
